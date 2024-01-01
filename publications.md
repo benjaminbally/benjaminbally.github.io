@@ -11,7 +11,6 @@ title: Publications
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
    B. Bally, T. R. Rodríguez  
-  [arXiv:XXXX.XXXXX (2024)](https://arxiv.org/abs/XXXX.XXXXX)
 
 ## Articles 
 
@@ -37,7 +36,7 @@ title: Publications
 
 - *Multi-reference many-body perturbation theory for nuclei III -- Ab initio calculations at second order in PGCM-PT*  
   M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, H. Hergert, T. R. Rodríguez, R. Roth, et al.  
-  [Eur. Phys. J. A 58, 63 (2022)](https://doi.org/10.1140/epja/s10050-022-00693-y) /
+  [Eur. Phys. J. A 58, 64 (2022)](https://doi.org/10.1140/epja/s10050-022-00694-x) /
   [arXiv:2111.01461](https://arxiv.org/abs/2111.01461)
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS I. Variation after particle-number projection*  
@@ -80,7 +79,7 @@ title: Publications
   [Phys. Rev. C 102, 014307 (2020)](https://doi.org/10.1103/PhysRevC.102.014307) /
   [arXiv:2001.10235](https://arxiv.org/abs/2001.10235)
 
-- *Variational approximations to exact solutions in shell-model valence spaces: Calcium isotopes in the $$pf$$*  
+- *Variational approximations to exact solutions in shell-model valence spaces: Calcium isotopes in the $$pf$$-shell*  
   B. Bally, A. Sánchez-Fernández, T. R. Rodríguez  
   [Phys. Rev. C 100, 044308 (2019)](https://doi.org/10.1103/PhysRevC.100.044308) /
   [arXiv:1907.05493](https://arxiv.org/abs/1907.05493)
@@ -130,4 +129,9 @@ title: Publications
 - *Imaging the initial condition of heavy-ion collisions and nuclear structure across the nuclide chart*  
   B. Bally, J. Brandenburg, G. Giacalone, U. Heinz, S. Huang, J. Jia, D. Lee, et al.  
   [arXiv:2209.11042 (2022)](https://arxiv.org/abs/2209.11042)
+
+
+<!--
+  [arXiv:XXXX.XXXXX (2024)](https://arxiv.org/abs/XXXX.XXXXX)
+-->
 
