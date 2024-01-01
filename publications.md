@@ -94,7 +94,7 @@ title: Publications
   [Phys. Rev. Lett. 118, 032501 (2017), Editors' Suggestion](https://doi.org/10.1103/PhysRevLett.118.032501)
 
 - *De-excitation of the strongly coupled band in $${}^{\it 177}$$Au and implications for core intruder configurations in the light Hg isotopes*  
-  M. Venhart, F. A. Ali, W. Ryssens, J. L. Wood, D. T. Joss, A. N. Andreyev, K. Auranen, et al.
+  M. Venhart, F. A. Ali, W. Ryssens, J. L. Wood, D. T. Joss, A. N. Andreyev, K. Auranen, et al.  
   [Phys. Rev. C 95, 061302(R) (2017)](https://doi.org/10.1103/PhysRevC.95.061302)
 
 - *Beyond Mean-Field Calculations for Odd-Mass Nuclei*  
