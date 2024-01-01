@@ -1,6 +1,7 @@
 ---
 layout: plain
 title: Benjamin Bally
+cover: true
 ---
 
 ## Research topics  
