@@ -11,6 +11,7 @@ title: Publications
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
    B. Bally, T. R. Rodríguez  
+  [arXiv:2401.00941 (2024)](https://arxiv.org/abs/2401.00941)
 
 ## Articles 
 
@@ -132,6 +133,5 @@ title: Publications
 
 
 <!--
-  [arXiv:XXXX.XXXXX (2024)](https://arxiv.org/abs/XXXX.XXXXX)
 -->
 
