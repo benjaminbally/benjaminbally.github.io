@@ -22,8 +22,8 @@ Comparison between data of the Atomic Mass Evaluation of 2020 and *ab initio* ca
 
 You can download the PDF of the latest version of the nuclear charts here:  
 (if you use them, please remember to cite me)
-- [AME2020 vs EDF vs abinitio 2023](assets/pdf/nuclearchart_ame_edf_abinitio_2023_29112023.pdf)
-- [AME2020 vs abinitio 2023](assets/pdf/nuclearchart_ame_abinitio_2023_29112023.pdf)  
+- [AME2020 vs EDF vs abinitio 2024](assets/pdf/nuclearchart_ame_edf_abinitio_2024_17012024.pdf)
+- [AME2020 vs abinitio 2024](assets/pdf/nuclearchart_ame_abinitio_2024_17012024.pdf)  
 
 <!-- 
 Add chart deformation?
