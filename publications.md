@@ -5,13 +5,17 @@ title: Publications
 
 ## Recently submitted
 
-- *Ab initio uncertainty quantification of neutrinoless double-beta decay in $${}^{\it 76}$$Ge*  
-   A. Belley, J. M. Yao, B. Bally, J. Pitcher, J. Engel, H. Hergert, J. D. Holt, et al.  
-  [arXiv:2308.15634 (2023)](https://arxiv.org/abs/2308.15634)
+- *The unexpected uses of a bowling pin: exploiting $${}^{\it 20}$$Ne isotopes for precision characterizations of collectivity in small systems*
+   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.
+  [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
    B. Bally, T. R. Rodríguez  
   [arXiv:2401.00941 (2024)](https://arxiv.org/abs/2401.00941)
+
+- *Ab initio uncertainty quantification of neutrinoless double-beta decay in $${}^{\it 76}$$Ge*  
+   A. Belley, J. M. Yao, B. Bally, J. Pitcher, J. Engel, H. Hergert, J. D. Holt, et al.  
+  [arXiv:2308.15634 (2023)](https://arxiv.org/abs/2308.15634)
 
 ## Articles 
 
