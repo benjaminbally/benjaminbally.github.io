@@ -5,8 +5,8 @@ title: Publications
 
 ## Recently submitted
 
-- *The unexpected uses of a bowling pin: exploiting $${}^{\it 20}$$Ne isotopes for precision characterizations of collectivity in small systems*
-   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.
+- *The unexpected uses of a bowling pin: exploiting $${}^{\it 20}$$Ne isotopes for precision characterizations of collectivity in small systems*  
+   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
   [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
