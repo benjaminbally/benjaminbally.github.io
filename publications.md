@@ -9,15 +9,17 @@ title: Publications
    G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
   [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
-- *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
-   B. Bally, T. R. Rodríguez  
-  [arXiv:2401.00941 (2024)](https://arxiv.org/abs/2401.00941)
 
 - *Ab initio uncertainty quantification of neutrinoless double-beta decay in $${}^{\it 76}$$Ge*  
    A. Belley, J. M. Yao, B. Bally, J. Pitcher, J. Engel, H. Hergert, J. D. Holt, et al.  
   [arXiv:2308.15634 (2023)](https://arxiv.org/abs/2308.15634)
 
 ## Articles 
+
+- *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
+   B. Bally, T. R. Rodríguez  
+  [Eur. Phys. J. A 60, 62 (2024)](https://doi.org/10.1140/epja/s10050-024-01271-0) /
+  [arXiv:2401.00941](https://arxiv.org/abs/2401.00941)
 
 - *The shape of gold*  
   B. Bally, G. Giacalone, M. Bender  
