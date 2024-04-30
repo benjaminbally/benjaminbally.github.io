@@ -5,16 +5,22 @@ title: Publications
 
 ## Recently submitted
 
+- *Shell-model study of $${}^{\it 28}$$Si: coexistence of oblate, prolate and superdeformed shapes*  
+  D. Frycz, J. Menéndez, A. Rios, B. Bally, T. R. Rodríguez, A. M. Romero
+  [arXiv:2404.14506 (2024)](https://arxiv.org/abs/2404.14506)
+
+
 - *The unexpected uses of a bowling pin: exploiting $${}^{\it 20}$$Ne isotopes for precision characterizations of collectivity in small systems*  
-   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
+  G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
   [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
 
+## Articles 
+
 - *Ab initio uncertainty quantification of neutrinoless double-beta decay in $${}^{\it 76}$$Ge*  
    A. Belley, J. M. Yao, B. Bally, J. Pitcher, J. Engel, H. Hergert, J. D. Holt, et al.  
+  [Phys. Rev. Lett. 132, 182502 (2024)](https://doi.org/10.1103/PhysRevLett.132.182502) / 
   [arXiv:2308.15634 (2023)](https://arxiv.org/abs/2308.15634)
-
-## Articles 
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
    B. Bally, T. R. Rodríguez  
