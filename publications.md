@@ -13,7 +13,7 @@ title: Publications
   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
   [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
-- *The unexpected uses of a bowling pin: ianisotropic flow in fixed-target $${}^{\it 208}$$Pb+$${}^{\it 20}$$Ne collisions as a probe of quark-gluon plasma*  
+- *The unexpected uses of a bowling pin: anisotropic flow in fixed-target $${}^{\it 208}$$Pb+$${}^{\it 20}$$Ne collisions as a probe of quark-gluon plasma*  
   G. Giacalone, W. Zhao, B. Bally, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
   [arXiv:2405.20210 (2024)](https://arxiv.org/abs/2405.20210)
 
