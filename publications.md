@@ -5,6 +5,10 @@ title: Publications
 
 ## Recently submitted
 
+- *Mean-field approximation on steroids: exact description of the deuteron*  
+  B. Bally, A. Scalesi, V. Somà, L. Zurek, T. Duguet  
+  [arXiv:2404.14506 (2024)](https://arxiv.org/abs/2410.03356)
+
 - *Shell-model study of $${}^{\it 28}$$Si: coexistence of oblate, prolate and superdeformed shapes*  
   D. Frycz, J. Menéndez, A. Rios, B. Bally, T. R. Rodríguez, A. M. Romero  
   [arXiv:2404.14506 (2024)](https://arxiv.org/abs/2404.14506)

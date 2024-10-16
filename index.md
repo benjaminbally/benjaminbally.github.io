@@ -23,6 +23,7 @@ cover: true
 
 ## Achievements
 
+- Zdzisław Szymański Prize 2024 awarded by the Dean of the Faculty of Physics at the University of Warsaw
 - Co-creator and main developer of the numerical suite [TAURUS](taurus/)
 - Marie Skłodowska-Curie Actions, Individual Fellowship, 2018, Grant agreement [No. 839847](https://cordis.europa.eu/project/id/839847)
 - Main organizer of the workshops:
