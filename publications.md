@@ -27,7 +27,7 @@ title: Publications
 - *Ab initio uncertainty quantification of neutrinoless double-beta decay in $${}^{\it 76}$$Ge*  
    A. Belley, J. M. Yao, B. Bally, J. Pitcher, J. Engel, H. Hergert, J. D. Holt, et al.  
   [Phys. Rev. Lett. 132, 182502 (2024)](https://doi.org/10.1103/PhysRevLett.132.182502) / 
-  [arXiv:2308.15634 (2023)](https://arxiv.org/abs/2308.15634)
+  [arXiv:2308.15634](https://arxiv.org/abs/2308.15634)
 
 - *Symmetry-projected variational calculations with the numerical suite TAURUS II. Configuration mixing of symmetry-projected reference states*  
    B. Bally, T. R. Rodríguez  
