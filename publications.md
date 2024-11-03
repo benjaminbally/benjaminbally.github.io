@@ -25,7 +25,7 @@ title: Publications
 ## Articles 
 
 - *Smooth trends in fermium charge radii and the impact of shell effects*  
-  J. Warbinek, E. Rickert, S. Raeder, T. Albrecht-Schönzart, B. Andelic, J. Auler, B. Bally, et al. 
+  J. Warbinek, E. Rickert, S. Raeder, T. Albrecht-Schönzart, B. Andelic, J. Auler, B. Bally, et al.  
   [Nature 634, 1075 (2024)](https://doi.org/10.1038/s41586-024-08062-z) 
 
 - *Ab initio uncertainty quantification of neutrinoless double-beta decay in $${}^{\it 76}$$Ge*  
