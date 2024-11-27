@@ -7,11 +7,7 @@ title: Publications
 
 - *Mean-field approximation on steroids: exact description of the deuteron*  
   B. Bally, A. Scalesi, V. Somà, L. Zurek, T. Duguet  
-  [arXiv:2404.14506 (2024)](https://arxiv.org/abs/2410.03356)
-
-- *Shell-model study of $${}^{\it 28}$$Si: coexistence of oblate, prolate and superdeformed shapes*  
-  D. Frycz, J. Menéndez, A. Rios, B. Bally, T. R. Rodríguez, A. M. Romero  
-  [arXiv:2404.14506 (2024)](https://arxiv.org/abs/2404.14506)
+  [arXiv:2410.03356 (2024)](https://arxiv.org/abs/2410.03356)
 
 - *The unexpected uses of a bowling pin: exploiting $${}^{\it 20}$$Ne isotopes for precision characterizations of collectivity in small systems*  
   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
@@ -23,6 +19,11 @@ title: Publications
 
 
 ## Articles 
+
+- *Shell-model study of $${}^{\it 28}$$Si: coexistence of oblate, prolate and superdeformed shapes*  
+  D. Frycz, J. Menéndez, A. Rios, B. Bally, T. R. Rodríguez, A. M. Romero  
+  [Phys. Rev. C. 110, 054326 (2024)](https://doi.org/10.1103/PhysRevC.110.054326) / 
+  [arXiv:2404.14506 (2024)](https://arxiv.org/abs/2404.14506)
 
 - *Smooth trends in fermium charge radii and the impact of shell effects*  
   J. Warbinek, E. Rickert, S. Raeder, T. Albrecht-Schönzart, B. Andelic, J. Auler, B. Bally, et al.  
