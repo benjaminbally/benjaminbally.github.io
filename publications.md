@@ -152,8 +152,9 @@ title: Publications
 ## Reports/white papers
 
 - *Imaging the initial condition of heavy-ion collisions and nuclear structure across the nuclide chart*  
-  B. Bally, J. Brandenburg, G. Giacalone, U. Heinz, S. Huang, J. Jia, D. Lee, et al.  
-  [arXiv:2209.11042 (2022)](https://arxiv.org/abs/2209.11042)
+  J. Jia, G. Giacalone, B. Bally, J. Brandenburg, U. Heinz, S. Huang, D. Lee, et al.  
+  [Nucl. Sci. Tech. 220 (2024)](https://doi.org/10.1007/s41365-024-01589-w) / 
+  [arXiv:2209.11042](https://arxiv.org/abs/2209.11042)
 
 
 <!--
