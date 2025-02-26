@@ -13,12 +13,13 @@ title: Publications
   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
   [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
-- *The unexpected uses of a bowling pin: anisotropic flow in fixed-target $${}^{\it 208}$$Pb+$${}^{\it 20}$$Ne collisions as a probe of quark-gluon plasma*  
-  G. Giacalone, W. Zhao, B. Bally, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
-  [arXiv:2405.20210 (2024)](https://arxiv.org/abs/2405.20210)
-
 
 ## Articles 
+
+- *Anisotropic Flow in Fixed-Target $${}^{\it 208}$$Pb+$${}^{\it 20}$$Ne Collisions as a Probe of Quark-Gluon Plasma*  
+  G. Giacalone, W. Zhao, B. Bally, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
+  [Phys. Rev. Lett. 134, 082301 (2025)](https://doi.org/10.1103/PhysRevLett.134.082301) / 
+  [arXiv:2405.20210 (2024)](https://arxiv.org/abs/2405.20210)
 
 - *Shell-model study of $${}^{\it 28}$$Si: coexistence of oblate, prolate and superdeformed shapes*  
   D. Frycz, J. Menéndez, A. Rios, B. Bally, T. R. Rodríguez, A. M. Romero  
