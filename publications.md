@@ -16,7 +16,7 @@ title: Publications
 
 ## Articles 
 
-- *Ab initio nuclear shape coexistence and emergence of island of inversion ground 𝑁 = 20*  
+- *Ab initio nuclear shape coexistence and emergence of island of inversion around 𝑁 = 20*  
   E. F. Zhou, C. R. Ding, J. M. Yao, B. Bally, H. Hergert, C. F. Jiao, T. R. Rodríguez  
   [Phys. Lett. B 865, 139464 (2025)](https://doi.org/10.1016/j.physletb.2025.139464) / 
   [arXiv:2410.23113 (2024)](https://arxiv.org/abs/2410.23113)
