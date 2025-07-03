@@ -8,7 +8,7 @@ title: Publications
 
 - *Exploiting $${}^{\it 20}$$Ne Isotopes for Precision Characterizations of Collectivity in Small Systems*  
   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
-  [Phys. Rev. Lett. 134, 082301 (2025)](https://doi.org/10.1103/k8rb-jgvq) / 
+  [Phys. Rev. Lett. 135, 012302 (2025)](https://doi.org/10.1103/k8rb-jgvq) / 
   [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
 - *Mean-field approximation on steroids: exact description of the deuteron*  
