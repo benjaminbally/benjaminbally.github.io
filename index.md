@@ -7,12 +7,13 @@ cover: true
 ## Research topics  
 
 - Low-energy nuclear physics (theoretical and computational aspects)
-- Neutrinoless double-beta decay (nuclear matrix elements)
 - Ultrarelativistic heavy-ion collisions (interface with nuclear structure)
+- Neutrinoless double-beta decay (nuclear matrix elements)
 
 ## Academic career   
 
-- Since 2022: Postdoctoral Associate, CEA Saclay, ESNT, France
+- Since 2025: Postdoctoral Associate, TU Darmstadt, Germany
+- 2022 - 2025: Postdoctoral Associate, CEA Saclay, ESNT, France
 - 2019 - 2021: Marie Skłodowska-Curie Fellow, Universidad Autónoma de Madrid, Spain
 - 2018 - 2019: Postdoctoral Associate, University of North Carolina at Chapel Hill, USA
 - 2017 - 2018: Postdoctoral Associate, Universidad Autónoma de Madrid, Spain

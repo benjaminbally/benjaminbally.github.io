@@ -3,18 +3,18 @@ layout: plain
 title: Publications
 ---
 
-## Recently submitted
+
+## Articles 
+
+- *Exploiting $${}^{\it 20}$$Ne Isotopes for Precision Characterizations of Collectivity in Small Systems*  
+  G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
+  [Phys. Rev. Lett. 134, 082301 (2025)](https://doi.org/10.1103/k8rb-jgvq) / 
+  [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
 
 - *Mean-field approximation on steroids: exact description of the deuteron*  
   B. Bally, A. Scalesi, V. Somà, L. Zurek, T. Duguet  
+  [Eur. Phys. J. A 61, 140 (2025)](https://doi.org/10.1140/epja/s10050-025-01596-4) /
   [arXiv:2410.03356 (2024)](https://arxiv.org/abs/2410.03356)
-
-- *The unexpected uses of a bowling pin: exploiting $${}^{\it 20}$$Ne isotopes for precision characterizations of collectivity in small systems*  
-  G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
-  [arXiv:2402.05995 (2024)](https://arxiv.org/abs/2402.05995)
-
-
-## Articles 
 
 - *Ab initio nuclear shape coexistence and emergence of island of inversion around 𝑁 = 20*  
   E. F. Zhou, C. R. Ding, J. M. Yao, B. Bally, H. Hergert, C. F. Jiao, T. R. Rodríguez  
