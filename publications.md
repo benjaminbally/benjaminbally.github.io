@@ -3,8 +3,27 @@ layout: plain
 title: Publications
 ---
 
+## Recently submitted
+
+- *Imaging two-body correlations in atomic nuclei via low- and high-energy processes*  
+  S. Bofos, B. Bally, T. Duguet, M. Frosini  
+  [arXiv:2602.09890 (2026)](https://arxiv.org/abs/2602.09890)
+
+- *Mean-field proton-neutron pairing correlations with the Gogny D1S energy density functional*  
+  M. de la Fuente,  T. R. Rodríguez, L. Robledo, B. Bally, N. Pillet  
+  [arXiv:2602.09250 (2026)](https://arxiv.org/abs/2602.09250)
+
+- *High-Resolution Laser Spectroscopy on the Hyperfine Structure of $${}^{\it 255}$$Fm (Z=100)*  
+  M. Urquiza-González, M. Stemmler, T. E. Albrecht, B. Bally, M. Bender, S. Berndt, M. Block, et al.  
+  [arXiv:2511.20921 (2025)](https://arxiv.org/abs/2511.20921)
+
 
 ## Articles 
+
+- *M1 dipole strength from projected generator coordinate method calculations in the sd-shell valence space*  
+  S. Bofos, J. Martínez-Larraz, B. Bally, T. Duguet, M. Frosini, T. R. Rodríguez, K. Sieja  
+  [Phys. Rev. C 112, 064312 (2025)](https://doi.org/10.1103/f7qz-4jb9) / 
+  [arXiv:2507.12037 (2025)](https://arxiv.org/abs/2507.12037)
 
 - *Exploiting $${}^{\it 20}$$Ne Isotopes for Precision Characterizations of Collectivity in Small Systems*  
   G. Giacalone, B. Bally, G. Nijs, S. Shen, T. Duguet, J.-P. Ebran, S. Elhatisari, et al.  
