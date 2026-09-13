@@ -5,20 +5,30 @@ title: Publications
 
 ## Recently submitted
 
+- *Ab initio anatomy of quadrupole correlations in $$^{\it 16}$$O and $$^{\it 20}$$Ne*
+  C. Ding, B. Bally, S. Bofos, T. Duguet, Y. Li, J. Yao
+  [arXiv:2608.22699 (2026)](https://doi.org/10.48550/arXiv.2608.22699)
+
+- *Quantum effects in the quadrupole rotor picture of ultra-relativistic ion-ion collisions*
+  S. Bofos, Y. Li, C. Ding, B. Bally, T. Duguet, M. Frosini, J. Yao
+  [arXiv:2605.28813 (2026)](https://doi.org/10.48550/arXiv.2605.28813)
+
+## Regular articles 
+
 - *Imaging two-body correlations in atomic nuclei via low- and high-energy processes*  
   S. Bofos, B. Bally, T. Duguet, M. Frosini  
+  [Phys. Lett. B 879, 140649 (2026)](https://doi.org/10.1016/j.physletb.2026.140649) / 
   [arXiv:2602.09890 (2026)](https://arxiv.org/abs/2602.09890)
 
 - *Mean-field proton-neutron pairing correlations with the Gogny D1S energy density functional*  
   M. de la Fuente,  T. R. Rodríguez, L. Robledo, B. Bally, N. Pillet  
+  [Phys. Lett. C accepted, in print (2026)](https://doi.org/10.1103/sjy1-tshn) / 
   [arXiv:2602.09250 (2026)](https://arxiv.org/abs/2602.09250)
 
 - *High-Resolution Laser Spectroscopy on the Hyperfine Structure of $${}^{\it 255}$$Fm (Z=100)*  
   M. Urquiza-González, M. Stemmler, T. E. Albrecht, B. Bally, M. Bender, S. Berndt, M. Block, et al.  
+  [Phys.~Rev.~Lett.~136, 192501 (2026)](https://doi.org/10.1103/2813-b49x) / 
   [arXiv:2511.20921 (2025)](https://arxiv.org/abs/2511.20921)
-
-
-## Articles 
 
 - *M1 dipole strength from projected generator coordinate method calculations in the sd-shell valence space*  
   S. Bofos, J. Martínez-Larraz, B. Bally, T. Duguet, M. Frosini, T. R. Rodríguez, K. Sieja  
@@ -162,6 +172,18 @@ title: Publications
   [arXiv:1002.1006](https://arxiv.org/abs/1002.1006)
 
 
+## Reports/white papers
+
+- *Nuclear Physics Confronts Relativistic Collisions Of Isobars*
+  G. Giacalone, J. Jia, V. Somà, Y. Zhou, A. Afanasjev, M. Alvioli, et al.  
+  [arXiv:2507.01454 (2025)](https://doi.org/10.48550/arXiv.2507.01454)
+
+- *Imaging the initial condition of heavy-ion collisions and nuclear structure across the nuclide chart*  
+  J. Jia, G. Giacalone, B. Bally, J. Brandenburg, U. Heinz, S. Huang, D. Lee, et al.  
+  [Nucl. Sci. Tech. 220 (2024)](https://doi.org/10.1007/s41365-024-01589-w) / 
+  [arXiv:2209.11042](https://arxiv.org/abs/2209.11042)
+
+
 ## Proceedings
 
 - *Beyond-mean-field correlations and the description of superheavy elements*  
@@ -172,14 +194,6 @@ title: Publications
   B. Bally, B. Avez, M. Bender, P.-H. Heenen   
   [Int. J. Mod.~Phys. E 21, 1250026 (2012)](https://doi.org/10.1142/S0218301312500267) / 
   [arXiv:1111.0451](https://arxiv.org/abs/1111.0451)
-
-
-## Reports/white papers
-
-- *Imaging the initial condition of heavy-ion collisions and nuclear structure across the nuclide chart*  
-  J. Jia, G. Giacalone, B. Bally, J. Brandenburg, U. Heinz, S. Huang, D. Lee, et al.  
-  [Nucl. Sci. Tech. 220 (2024)](https://doi.org/10.1007/s41365-024-01589-w) / 
-  [arXiv:2209.11042](https://arxiv.org/abs/2209.11042)
 
 
 <!--
