@@ -5,12 +5,12 @@ title: Publications
 
 ## Recently submitted
 
-- *Ab initio anatomy of quadrupole correlations in $$^{\it 16}$$O and $$^{\it 20}$$Ne*
-  C. Ding, B. Bally, S. Bofos, T. Duguet, Y. Li, J. Yao
+- *Ab initio anatomy of quadrupole correlations in $$^{\it 16}$$O and $$^{\it 20}$$Ne*  
+  C. Ding, B. Bally, S. Bofos, T. Duguet, Y. Li, J. Yao  
   [arXiv:2608.22699 (2026)](https://doi.org/10.48550/arXiv.2608.22699)
 
-- *Quantum effects in the quadrupole rotor picture of ultra-relativistic ion-ion collisions*
-  S. Bofos, Y. Li, C. Ding, B. Bally, T. Duguet, M. Frosini, J. Yao
+- *Quantum effects in the quadrupole rotor picture of ultra-relativistic ion-ion collisions*  
+  S. Bofos, Y. Li, C. Ding, B. Bally, T. Duguet, M. Frosini, J. Yao  
   [arXiv:2605.28813 (2026)](https://doi.org/10.48550/arXiv.2605.28813)
 
 ## Regular articles 
@@ -27,7 +27,7 @@ title: Publications
 
 - *High-Resolution Laser Spectroscopy on the Hyperfine Structure of $${}^{\it 255}$$Fm (Z=100)*  
   M. Urquiza-González, M. Stemmler, T. E. Albrecht, B. Bally, M. Bender, S. Berndt, M. Block, et al.  
-  [Phys.~Rev.~Lett.~136, 192501 (2026)](https://doi.org/10.1103/2813-b49x) / 
+  [Phys. Rev. Lett. 136, 192501 (2026)](https://doi.org/10.1103/2813-b49x) / 
   [arXiv:2511.20921 (2025)](https://arxiv.org/abs/2511.20921)
 
 - *M1 dipole strength from projected generator coordinate method calculations in the sd-shell valence space*  
@@ -174,7 +174,7 @@ title: Publications
 
 ## Reports/white papers
 
-- *Nuclear Physics Confronts Relativistic Collisions Of Isobars*
+- *Nuclear Physics Confronts Relativistic Collisions Of Isobars*  
   G. Giacalone, J. Jia, V. Somà, Y. Zhou, A. Afanasjev, M. Alvioli, et al.  
   [arXiv:2507.01454 (2025)](https://doi.org/10.48550/arXiv.2507.01454)
 
